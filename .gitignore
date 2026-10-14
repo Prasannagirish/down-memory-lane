@@ -1,0 +1,15 @@
+# Allowlist: ignore everything, then re-include only code, docs and config.
+# Photos of a real person (training/childhood/teen sets, generated samples), tokens, logs and run records stay local.
+*
+!.gitignore
+!README.md
+!requirements.txt
+!.env.example
+!slack_manifest.yaml
+!bot.py
+!prompting.py
+!imagegen.py
+!train.py
+!build_dataset.py
+!try.py
+!video_script.md

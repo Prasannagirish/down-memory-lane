@@ -1,0 +1,5 @@
+replicate
+slack-bolt
+python-dotenv
+requests
+Pillow
